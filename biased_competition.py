@@ -1,5 +1,5 @@
 
-# Neuron activation in response to an object 
+# Neuron activation in response to two competing objects 
 
 Neuron = { 
     'Preference_for_red': 7,
